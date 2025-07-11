@@ -1,0 +1,19 @@
+.productionPage {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 32px;
+  background: #f8f8f8;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+.productionPage h1 {
+  color: #1a7f37;
+  margin-bottom: 16px;
+}
+.productionPage ul {
+  margin: 16px 0 24px 24px;
+}
+.productionPage a {
+  color: #1a7f37;
+  text-decoration: underline;
+}
