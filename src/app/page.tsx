@@ -58,6 +58,18 @@ export default function Home() {
             {" "}
             → Accéder à la production numérique
           </a>
+          <a
+            href="/attestation"
+            style={{
+              color: "#1a237e",
+              fontWeight: "bold",
+              textDecoration: "underline",
+              marginLeft: 24,
+            }}
+          >
+            {" "}
+            → Attestation numérique
+          </a>
         </nav>
         <section style={{ marginBottom: 40 }}>
           <h2>Inscription</h2>
